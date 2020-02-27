@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96a60677-03c8-4db7-b8df-d64c71d19568" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YHs4X9gGIGgbM29Xf51XfKGuHO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\k1aar\OneDrive\Desktop\Projects\Python\SpellCaster\Base" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\k1aar\OneDrive\Desktop\Projects\Python\SpellCaster\core" />
+      <recent name="C:\Users\k1aar\OneDrive\Desktop\Projects\Python\SpellCaster\Base" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.Core (1)">
+    <configuration name="Core (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SpellCaster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main/Core.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Core" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SpellCaster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_zcore" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_zcore/Core.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SpellCaster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/core" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/core/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Spell" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SpellCaster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Base/Spell.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SpellCaster" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Base" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Base/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Core (1)" />
+        <item itemvalue="Python.Core" />
+        <item itemvalue="Python.Main" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Spell" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96a60677-03c8-4db7-b8df-d64c71d19568" name="Default Changelist" comment="" />
+      <created>1582610662615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582610662615</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582611106975">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="254" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1474.864/-1858.0.1858.1080@62.0.1474.864" timestamp="1582611106975" />
+    <state x="579" y="187" key="FileChooserDialogImpl" timestamp="1582777292695">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="579" y="187" key="FileChooserDialogImpl/62.0.1474.864/-1858.0.1858.1080@62.0.1474.864" timestamp="1582610913947" />
+    <state x="579" y="187" key="FileChooserDialogImpl/62.0.1474.864/-1920.0.1920.1040@62.0.1474.864" timestamp="1582777292695" />
+    <state width="1453" height="2" key="GridCell.Tab.0.bottom" timestamp="1582782074119">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1453" height="2" key="GridCell.Tab.0.bottom/62.0.1474.864/-1858.0.1858.1080@62.0.1474.864" timestamp="1582680335061" />
+    <state width="1453" height="2" key="GridCell.Tab.0.bottom/62.0.1474.864/-1920.0.1920.1040@62.0.1474.864" timestamp="1582782074119" />
+    <state width="1453" height="706" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1582668758981" />
+    <state width="1453" height="2" key="GridCell.Tab.0.center" timestamp="1582782074118">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1453" height="2" key="GridCell.Tab.0.center/62.0.1474.864/-1858.0.1858.1080@62.0.1474.864" timestamp="1582680335059" />
+    <state width="1453" height="2" key="GridCell.Tab.0.center/62.0.1474.864/-1920.0.1920.1040@62.0.1474.864" timestamp="1582782074118" />
+    <state width="1453" height="706" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1582668758978" />
+    <state width="1453" height="2" key="GridCell.Tab.0.left" timestamp="1582782074118">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1453" height="2" key="GridCell.Tab.0.left/62.0.1474.864/-1858.0.1858.1080@62.0.1474.864" timestamp="1582680335059" />
+    <state width="1453" height="2" key="GridCell.Tab.0.left/62.0.1474.864/-1920.0.1920.1040@62.0.1474.864" timestamp="1582782074118" />
+    <state width="1453" height="706" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1582668758978" />
+    <state width="1453" height="2" key="GridCell.Tab.0.right" timestamp="1582782074118">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1453" height="2" key="GridCell.Tab.0.right/62.0.1474.864/-1858.0.1858.1080@62.0.1474.864" timestamp="1582680335060" />
+    <state width="1453" height="2" key="GridCell.Tab.0.right/62.0.1474.864/-1920.0.1920.1040@62.0.1474.864" timestamp="1582782074118" />
+    <state width="1453" height="706" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1582668758979" />
+    <state x="308" y="75" key="SettingsEditor" timestamp="1582777303023">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="308" y="75" key="SettingsEditor/62.0.1474.864/-1858.0.1858.1080@62.0.1474.864" timestamp="1582610931001" />
+    <state x="308" y="75" key="SettingsEditor/62.0.1474.864/-1920.0.1920.1040@62.0.1474.864" timestamp="1582777303023" />
+    <state x="501" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1582777237017">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="501" y="256" key="com.intellij.ide.util.TipDialog/62.0.1474.864/-1858.0.1858.1080@62.0.1474.864" timestamp="1582659875235" />
+    <state x="501" y="256" key="com.intellij.ide.util.TipDialog/62.0.1474.864/-1920.0.1920.1040@62.0.1474.864" timestamp="1582777237017" />
+    <state x="501" y="256" key="com.intellij.ide.util.TipDialog/62.0.1474.864@62.0.1474.864" timestamp="1582752255019" />
+    <state x="448" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1582779195740">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="448" y="185" width="672" height="678" key="search.everywhere.popup/62.0.1474.864/-1858.0.1858.1080@62.0.1474.864" timestamp="1582666927022" />
+    <state x="448" y="185" width="672" height="678" key="search.everywhere.popup/62.0.1474.864/-1920.0.1920.1040@62.0.1474.864" timestamp="1582779195740" />
+  </component>
+</project>
