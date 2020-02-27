@@ -2,7 +2,7 @@ class Spell:
     # sourcebook-page : detail + per spell == desc
     # V, S, M == comp
     def __init__(self, name, lvl, isRitual, castTime, spRange, targetArea, v, s, m, component, cost, isCon, dura,
-                 attack_SaveThrow, damageType, healthChange, sourcebook, page, additional_desc, perHigherLvldesc,
+                 attack_SaveThrow, damageType, healthChange, page, additional_desc, perHigherLvldesc,
                  usableClass):
             self.name = name  #
             self.lvl = int(lvl)  #
@@ -17,7 +17,7 @@ class Spell:
             self.components = [v, s, m, component, cost]  #
             #
             self.effect = [damageType, healthChange, attack_SaveThrow]
-            self.desc = sourcebook + " - " + page + ": " + additional_desc + " " + perHigherLvldesc
+            self.desc = "# " + page + ": " + additional_desc + " " + perHigherLvldesc
             self.usableGroup = usableClass
 
     def __str__(self):

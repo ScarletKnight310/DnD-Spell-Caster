@@ -4,7 +4,7 @@ class ClassSpells:
         self.list = spellList
 
     def __str__(self):
-        stri = self.name + "\n  "
+        stri = self.name + "\n"
         for s in self.list:
             stri += (str(s) + "\n")
         return stri
