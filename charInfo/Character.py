@@ -1,26 +1,25 @@
 class Character:
 
-    def __init__(self, name, class_lvlList, spells):
+    def __init__(self, name, classes, spells):
         self.name = name
-        self.class_lvlList = class_lvlList
-        self.usableSpells = spells
+        self.classes = classes
         self.allSpells = spells
-        self.filterSp(spells)
+        self.usableSpells = self.setusableSp(spells)
 
-    def editClass(self, newClassList):
-        self.classList = newClassList
-        self.filterSp()
+    def lvlUp(self, className):
+        for c in range(0, len(self.classes)):
+            if className in self.classes[c][0]:
+                self.classes[c][1] += 1
 
-    def editLevel(self, lvl):
-        self.lvl = lvl
-        self.filterSp()
+    def lvlUpAll(self, className):
+        for c in range(0, len(self.classes)):
+            self.classes[c][1] += 1
 
-    def levelUp(self,):
-        self.lvl = self.lvl + 1
-        self.filterSp()
+    def addClass(self, newClass):
+        self.classes.append(newClass)
 
-    def filterSp(self):
-        self.usableSpells = filter(lambda s: s.lvl == self.lvl and s.containsClass(), self.allSpells)
-
-    def __str__(self):
-        s = self.name + "\nLvl " + str(self.lvl) + "\n"
+    def setusableSp(self, spells):
+        sp = []
+        # for clSpell in spells:
+        return sp
+    #def __str__(self):

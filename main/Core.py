@@ -16,6 +16,7 @@ locations = ["C:\\Users\\k1aar\\OneDrive\\Desktop\\Projects\\Python\\DnD-Spell-C
                         "C:\\Users\\k1aar\\OneDrive\\Desktop\\Projects\\Python\\DnD-Spell-Caster\\_rawSpellList"
                         "\\Wizard.csv"]
 all_spells = SpellList(locations)
-print(str(all_spells.ClassSpells[0]))
+#print(str(all_spells))
+print(str([["class1",1],["class2",1]]))
 
 
